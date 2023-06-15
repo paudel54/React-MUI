@@ -1,4 +1,10 @@
 Installed packages: for this project: 
 React Router DOm : npm i --save react-router-dom
 
+Images Optimizations: 
+ Always use SVGS :=> they don't blow out .
+ Scalable Vector Graphics. 
+ They contain low size. Significant reduction in file size to JEPG
+ Customizable.  => we can fill color, height width
 
+MUI 
