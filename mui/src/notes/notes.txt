@@ -7,4 +7,15 @@ Images Optimizations:
  They contain low size. Significant reduction in file size to JEPG
  Customizable.  => we can fill color, height width
 
-MUI 
+MUI : appbar with elevation
+09:themes : MUI style for themes: // with npm
+npm install @mui/styles
+
+// with yarn
+npm install @mui/styles
+// "#0B72B9 " "  #FFBA60"
+
+//TypoGraphy
+13 style inline import { makeStyles } from '@mui/styles';
+
+14 //Creating AppBar Logo
